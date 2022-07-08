@@ -3,7 +3,7 @@ Logistic Regression Implementation in Python #### Dependencies required to run t
 
 Python & Jupyter notebook.
 
-I prefer to install them together as a single package called “Anaconda“.
+I prefer to install them together as a single package called “JUPYTER“.
 
 Project steps breakdown:
 
